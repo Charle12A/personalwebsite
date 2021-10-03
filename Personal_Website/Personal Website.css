@@ -1,0 +1,39 @@
+h1 {
+	font-size: 60px;	
+}
+.post-heading {
+	color: #006633;
+	font-size: 1.8em;
+	text-align: center;	
+}
+#main-nav	{
+	font-size: 1.3em;	
+}
+#main-nav a,
+#main-nav a:visitied {
+	text-decoration: none;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active{
+	text-decoration: underline;
+} 
+blockquote	{
+	color: #33ccff;
+	font-size: 1.3em;
+	font-style: italic;
+}
+article p {
+	text-align: justify;
+	text-indent: 25px;
+}
+.https://www.legalbettingonline.com/wp-content/uploads/major-us-sports-leagues.jpg
+ {
+	float: left;
+	width: 640px;
+}
+.article-sports {
+	clear: both;
+}.article-thumbs img {
+	width: 200px;
+}
