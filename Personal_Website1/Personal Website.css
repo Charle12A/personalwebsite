@@ -1,0 +1,67 @@
+*	{
+	box-sizing: border-box
+}
+
+h1 {
+	font-size: 60px;
+	background-color: aliceblue;
+
+}
+.post-heading {
+	color: navy;
+	font-size: 1.7em;
+	text-align: center;	
+}
+#main-nav	{
+	font-size: 1.3em;	
+}
+#main-nav a,
+#main-nav a:visitied
+#main-nav a:link {
+	text-decoration: none;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active{
+	text-decoration: none;
+	display: inline;
+	padding: 10px;
+	text-align: center;
+	position: relative;
+} 
+blockquote	{
+	color: black;
+	font-size: 1.3em;
+	font-style: italic;
+}
+.sports-image	{
+	width: 50px;
+}
+article p	{
+	padding:10px;
+	text-align: justify;
+	column-count: 2;
+	width: 700px;
+	margin: 20px
+}
+#main-nav ul li	{
+	display: inline-block;
+	padding: 10px;
+	margin: 20px;
+	text-transform: uppercase;
+	color: #fff;
+	position: relative
+}
+#content-left	{
+	padding: 0px 25px;
+	width:100%;
+	margin-bottom: 30px;
+	text-align: center;
+	background-color: lightcoral;
+}	
+.covered	{
+	float: right;
+	font-size: 1.5em;
+	margin: 5px;
+	width: 60%;
+}
